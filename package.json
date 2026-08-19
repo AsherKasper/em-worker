@@ -1,0 +1,8 @@
+{
+  "name": "em-worker",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "ERC-8128 signed client and worker tooling for execution.market, in Node",
+  "license": "MIT",
+  "dependencies": { "ethers": "^6.0.0" }
+}
